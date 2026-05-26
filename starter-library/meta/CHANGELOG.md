@@ -3,6 +3,18 @@
 Append-only log of changes the Librarian makes to the knowledge base. Newest
 first.
 
+## 2026-05-26 — Compiled all 12 sources into the wiki
+- Wrote 12 source notes in [`wiki/sources/`](../wiki/sources/) (summary, key
+  takeaways, extracted concepts) and marked sources 001–012 `compiled` in
+  [`raw/INDEX.md`](../raw/INDEX.md).
+- Created 26 atomic concept articles in [`wiki/concepts/`](../wiki/concepts/),
+  bidirectionally backlinked to sources and related concepts.
+- Created 5 topic maps in [`wiki/topics/`](../wiki/topics/): transformer
+  architecture, pre-training & transfer learning, scaling & emergence, alignment
+  & preference learning, and LLM reasoning.
+- Rebuilt [`wiki/INDEX.md`](../wiki/INDEX.md) as master navigation and set the
+  library scope in [`AGENTS.md`](../AGENTS.md).
+
 ## 2026-05-26 — Ingested 12 foundational LLM/ML papers
 - Registered 12 source PDFs already present in `raw/` into
   [`raw/INDEX.md`](../raw/INDEX.md) as IDs 001–012, status `raw`: Attention Is
