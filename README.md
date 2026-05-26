@@ -1,6 +1,14 @@
-# Funes
+# Funes Example Library
+
+This is a small, populated example library created by Funes. Several PDFs of papers were added to starter-library/raw/. Claude Code was then used to "ingest" them. You can use any LLM for this task, such as Codex or Deepseek, but using the best model you have access to with the largest possible context window is recommended. Browse the folders in starter-library to see the type of output Funes generates.
+
+When you add information to your raw directory, you are not limited to PDFs. You can add any type of information, such as text, pictures, screenshots, code, etc.
+
+-------------------------------
 
 Funes is a Git-based framework for turning raw sources into durable, cited knowledge work with an AI Librarian.
+
+You can find Funes [here](https://github.com/ulyssestenn/funes).
 
 The Librarian ingests raw sources, preserves them as an immutable record, compiles them into an interlinked Markdown wiki, and uses that wiki to produce cited answers, reports, analyses, routines, and other reusable outputs. You provide the sources and questions; the Librarian handles the writing, linking, indexing, health checks, and upkeep.
 
