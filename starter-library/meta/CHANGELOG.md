@@ -3,6 +3,13 @@
 Append-only log of changes the Librarian makes to the knowledge base. Newest
 first.
 
+## 2026-05-26 — Health check (clean)
+- Audited the full wiki; wrote
+  [`meta/health/2026-05-26-health-check.md`](./health/2026-05-26-health-check.md).
+- All checks pass: 0 broken links, 0 orphans, reciprocal source/concept/topic
+  backlinks, full `INDEX.md` coverage, complete frontmatter, all sources
+  `compiled`. No fixes required; logged optional promotion/coverage suggestions.
+
 ## 2026-05-26 — Compiled all 12 sources into the wiki
 - Wrote 12 source notes in [`wiki/sources/`](../wiki/sources/) (summary, key
   takeaways, extracted concepts) and marked sources 001–012 `compiled` in
