@@ -10,6 +10,14 @@ first.
   optimizer as two orthogonal axes, a full comparison table, tradeoffs, and
   "which to reach for." Proposes filing the framing back under the alignment topic.
 
+## 2026-05-26 — Analysis: the scaling narrative
+- Wrote [`outputs/2026-05-26-scaling-narrative.md`](../outputs/2026-05-26-scaling-narrative.md),
+  a synthesis across the scaling/emergence/reasoning sources (Kaplan → GPT-3 →
+  Emergent Abilities → Chinchilla → CoT → DeepSeek-R1): smooth loss vs. emergent
+  capabilities, the recurring compute-allocation question, and the shift toward
+  test-time compute. Notes open tensions and proposes a "train-time vs. test-time
+  scaling" concept to file back into the wiki.
+
 ## 2026-05-26 — Health check (clean)
 - Audited the full wiki; wrote
   [`meta/health/2026-05-26-health-check.md`](./health/2026-05-26-health-check.md).
