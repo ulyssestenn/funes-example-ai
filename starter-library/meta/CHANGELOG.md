@@ -3,6 +3,13 @@
 Append-only log of changes the Librarian makes to the knowledge base. Newest
 first.
 
+## 2026-05-26 — Analysis: alignment comparison matrix
+- Wrote [`outputs/2026-05-26-alignment-comparison-matrix.md`](../outputs/2026-05-26-alignment-comparison-matrix.md),
+  comparing RLHF (InstructGPT), Constitutional AI/RLAIF, and DPO as deltas on a
+  shared skeleton (SFT + preferences + KL-to-reference): feedback source vs.
+  optimizer as two orthogonal axes, a full comparison table, tradeoffs, and
+  "which to reach for." Proposes filing the framing back under the alignment topic.
+
 ## 2026-05-26 — Health check (clean)
 - Audited the full wiki; wrote
   [`meta/health/2026-05-26-health-check.md`](./health/2026-05-26-health-check.md).
