@@ -3,6 +3,13 @@
 Append-only log of changes the Librarian makes to the knowledge base. Newest
 first.
 
+## 2026-05-26 — Analysis: coverage gap analysis
+- Wrote [`outputs/2026-05-26-coverage-gap-analysis.md`](../outputs/2026-05-26-coverage-gap-analysis.md),
+  consolidating gaps from the health check and prior analyses into a prioritized
+  ingest roadmap: in-scope gaps (P0–P2, e.g. emergence critique, RLHF precursors,
+  inference-optimal scaling, tokenization), scope-expansion threads (RAG, agents,
+  multimodality, evaluation), internal gaps, and a recommended next 3–5 ingests.
+
 ## 2026-05-26 — Analysis: concept-centrality map
 - Wrote [`outputs/2026-05-26-concept-centrality-map.md`](../outputs/2026-05-26-concept-centrality-map.md),
   measuring the concept link graph (inbound links per article) to identify hubs —
