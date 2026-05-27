@@ -3,6 +3,13 @@
 Append-only log of changes the Librarian makes to the knowledge base. Newest
 first.
 
+## 2026-05-26 — Analysis: concept-centrality map
+- Wrote [`outputs/2026-05-26-concept-centrality-map.md`](../outputs/2026-05-26-concept-centrality-map.md),
+  measuring the concept link graph (inbound links per article) to identify hubs —
+  chain-of-thought, RLHF, and transformer anchor the three clusters — and turning
+  the structure into a tiered "start here" reading path. Proposes adding that path
+  to `wiki/INDEX.md`.
+
 ## 2026-05-26 — Analysis: alignment comparison matrix
 - Wrote [`outputs/2026-05-26-alignment-comparison-matrix.md`](../outputs/2026-05-26-alignment-comparison-matrix.md),
   comparing RLHF (InstructGPT), Constitutional AI/RLAIF, and DPO as deltas on a
